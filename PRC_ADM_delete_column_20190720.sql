@@ -11,7 +11,7 @@ CREATE procedure ADM_delete_column
 ,	@column_name_in nvarchar(300)
 AS 
 BEGIN
-	/* 	Author: Matthias Guenther (matthis@online.ms at 2019.07.20)
+	/* 	Author: Matthis (matthis@online.ms at 2019.07.20)
 		License CC BY (creativecommons.org)
 		Desc: 	Administrative procedure that drops columns at MS SQL Server
 				- if there is an index or constraint on the column 
