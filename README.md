@@ -8,6 +8,9 @@ scripts for Microsoft SQL Server database
 ## MSSQL_compression_yn.sql  
 >  Script to find candiate tables for compressions columns at MS SQL Server  
 
+## MSSQL_restore_DB.sql  
+>  Script to restore a database Backup with replace of the old data and relocate files at MS SQL Server  
+
 ## MSSQL_Search_content_CURSOR_20190917.sql  
 >  Script to find content from columns at MS SQL Server  
 
