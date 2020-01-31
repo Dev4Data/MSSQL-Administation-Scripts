@@ -1,7 +1,7 @@
 # MSSQL-Scripts
 scripts for Microsoft SQL Server database
 
-## PRC_ADM_delete_column_20190720.sql  
+## MSSQL_PRC_ADM_delete_column_20190720.sql  
 >  It's a Administrative procedure that drops columns at MS SQL Server  
 >    => input parameters are TABLE NAME and COLUMN NAME as STRING
 
