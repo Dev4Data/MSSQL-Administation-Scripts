@@ -1,4 +1,4 @@
-# MSSQL-Scripts
+# MSSQL-Administation-Scripts
 Administrative scripts for Microsoft SQL Server database
 
 ## MSSQL_PRC_ADM_delete_column_20190720.sql  
